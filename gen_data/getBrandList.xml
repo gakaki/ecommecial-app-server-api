@@ -1,0 +1,79 @@
+<shopex>
+    <result>success</result>
+    <msg />
+    <info>
+        <weblogid><![CDATA[d2ad1ff1e33ff2977291926b59493eed]]></weblogid><stime>1339144164</stime><error_code></error_code><error_info></error_info>        <data_info>
+			<brands>
+			<tag name="A"><brand image="http://www.s.cn/images/mobi/brand_icon/15_45.jpg" name="Aderson" categoryNum="0"  brandId="15"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/2_45.jpg" name="阿迪达斯" categoryNum="0"  brandId="2"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/35_45.jpg" name="AK ANNE KLEIN" categoryNum="0"  brandId="35"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/41_45.jpg" name="ANNE KLEIN NEW YORK" categoryNum="0"  brandId="41"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/46_45.jpg" name="安踏" categoryNum="0"  brandId="46"/>
+</tag>
+<tag name="B"><brand image="http://www.s.cn/images/mobi/brand_icon/34_45.jpg" name="BANDOLINO" categoryNum="0"  brandId="34"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/24_45.jpg" name="BCBG" categoryNum="0"  brandId="24"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/44_45.jpg" name="百丽" categoryNum="0"  brandId="44"/>
+</tag>
+<tag name="C"><brand image="http://www.s.cn/images/mobi/brand_icon/48_45.jpg" name="骆驼" categoryNum="0"  brandId="48"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/37_45.jpg" name="CAROLINNA ESPINOSA" categoryNum="0"  brandId="37"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/17_45.jpg" name="CAT" categoryNum="0"  brandId="17"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/18_45.jpg" name="Clarks" categoryNum="0"  brandId="18"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/5_45.jpg" name="匡威" categoryNum="0"  brandId="5"/>
+</tag>
+<tag name="D"><brand image="http://www.s.cn/images/mobi/brand_icon/29_45.jpg" name="达芙妮" categoryNum="0"  brandId="29"/>
+</tag>
+<tag name="E"><brand image="http://www.s.cn/images/mobi/brand_icon/38_45.jpg" name="easyspirit" categoryNum="0"  brandId="38"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/23_45.jpg" name="ELLE" categoryNum="0"  brandId="23"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/33_45.jpg" name="ENZO ANGIOLINI" categoryNum="0"  brandId="33"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/31_45.jpg" name="EQ:IQ" categoryNum="0"  brandId="31"/>
+</tag>
+<tag name="H"><brand image="http://www.s.cn/images/mobi/brand_icon/12_45.jpg" name="暇步士" categoryNum="0"  brandId="12"/>
+</tag>
+<tag name="I"><brand image="http://www.s.cn/images/mobi/brand_icon/42_45.jpg" name="茵奈儿" categoryNum="0"  brandId="42"/>
+</tag>
+<tag name="J"><brand image="http://www.s.cn/images/mobi/brand_icon/40_45.jpg" name="JOAN DAVID" categoryNum="0"  brandId="40"/>
+</tag>
+<tag name="K"><brand image="http://www.s.cn/images/mobi/brand_icon/4_45.jpg" name="Kappa" categoryNum="0"  brandId="4"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/13_45.jpg" name="K-SWISS" categoryNum="0"  brandId="13"/>
+</tag>
+<tag name="L"><brand image="http://www.s.cn/images/mobi/brand_icon/30_45.jpg" name="朗蒂维" categoryNum="0"  brandId="30"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/10_45.jpg" name="李宁" categoryNum="0"  brandId="10"/>
+</tag>
+<tag name="M"><brand image="http://www.s.cn/images/mobi/brand_icon/7_45.jpg" name="迈乐" categoryNum="0"  brandId="7"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/22_45.jpg" name="Millies" categoryNum="0"  brandId="22"/>
+</tag>
+<tag name="N"><brand image="http://www.s.cn/images/mobi/brand_icon/28_45.jpg" name="New Balance" categoryNum="0"  brandId="28"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/1_45.jpg" name="耐克" categoryNum="0"  brandId="1"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/27_45.jpg" name="Nina" categoryNum="0"  brandId="27"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/32_45.jpg" name="NINE WEST" categoryNum="0"  brandId="32"/>
+</tag>
+<tag name="P"><brand image="http://www.s.cn/images/mobi/brand_icon/3_45.jpg" name="彪马" categoryNum="0"  brandId="3"/>
+</tag>
+<tag name="R"><brand image="http://www.s.cn/images/mobi/brand_icon/11_45.jpg" name="锐步" categoryNum="0"  brandId="11"/>
+</tag>
+<tag name="S"><brand image="http://www.s.cn/images/mobi/brand_icon/50_45.jpg" name="SAFIYA" categoryNum="0"  brandId="50"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/54_45.jpg" name="圣大保罗" categoryNum="0"  brandId="54"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/25_45.jpg" name="Scholl" categoryNum="0"  brandId="25"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/52_45.jpg" name="SIXTY NINE" categoryNum="0"  brandId="52"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/16_45.jpg" name="斯凯奇" categoryNum="0"  brandId="16"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/19_45.jpg" name="Skomart" categoryNum="0"  brandId="19"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/49_45.jpg" name="星期六" categoryNum="0"  brandId="49"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/39_45.jpg" name="STEVE MADDEN" categoryNum="0"  brandId="39"/>
+</tag>
+<tag name="T"><brand image="http://www.s.cn/images/mobi/brand_icon/43_45.jpg" name="他她" categoryNum="0"  brandId="43"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/45_45.jpg" name="天美意" categoryNum="0"  brandId="45"/>
+</tag>
+<tag name="U"><brand image="http://www.s.cn/images/mobi/brand_icon/14_45.jpg" name="茵宝" categoryNum="0"  brandId="14"/>
+</tag>
+<tag name="V"><brand image="http://www.s.cn/images/mobi/brand_icon/26_45.jpg" name="VAGO" categoryNum="0"  brandId="26"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/20_45.jpg" name="VANS" categoryNum="0"  brandId="20"/>
+</tag>
+<tag name="W"><brand image="http://www.s.cn/images/mobi/brand_icon/47_45.jpg" name="回力" categoryNum="0"  brandId="47"/>
+<brand image="http://www.s.cn/images/mobi/brand_icon/51_45.jpg" name="渥弗林" categoryNum="0"  brandId="51"/>
+</tag>
+			</brands>
+			<brandIcons>
+			<tag name="运动户外" id="132"><brand image="http://www.s.cn/images/mobi/brand_icon/1_103.jpg" name="耐克" categoryNum="0" brandId="1"  type="hot"  /><brand image="http://www.s.cn/images/mobi/brand_icon/2_103.jpg" name="阿迪达斯" categoryNum="0" brandId="2"  type="hot"  /><brand image="http://www.s.cn/images/mobi/brand_icon/3_103.jpg" name="彪马" categoryNum="0" brandId="3"   /><brand image="http://www.s.cn/images/mobi/brand_icon/4_103.jpg" name="Kappa" categoryNum="0" brandId="4"  type="hot"  /><brand image="http://www.s.cn/images/mobi/brand_icon/5_103.jpg" name="匡威" categoryNum="0" brandId="5"  type="hot"  /><brand image="http://www.s.cn/images/mobi/brand_icon/7_103.jpg" name="迈乐" categoryNum="0" brandId="7"   /><brand image="http://www.s.cn/images/mobi/brand_icon/10_103.jpg" name="李宁" categoryNum="0" brandId="10"  type="hot"  /><brand image="http://www.s.cn/images/mobi/brand_icon/11_103.jpg" name="锐步" categoryNum="0" brandId="11"   /><brand image="http://www.s.cn/images/mobi/brand_icon/13_103.jpg" name="K-SWISS" categoryNum="0" brandId="13"   /><brand image="http://www.s.cn/images/mobi/brand_icon/14_103.jpg" name="茵宝" categoryNum="0" brandId="14"   /><brand image="http://www.s.cn/images/mobi/brand_icon/15_103.jpg" name="Aderson" categoryNum="0" brandId="15"   /><brand image="http://www.s.cn/images/mobi/brand_icon/16_103.jpg" name="斯凯奇" categoryNum="0" brandId="16"   /><brand image="http://www.s.cn/images/mobi/brand_icon/17_103.jpg" name="CAT" categoryNum="0" brandId="17"   /><brand image="http://www.s.cn/images/mobi/brand_icon/19_103.jpg" name="Skomart" categoryNum="0" brandId="19"   /><brand image="http://www.s.cn/images/mobi/brand_icon/20_103.jpg" name="VANS" categoryNum="0" brandId="20"   /><brand image="http://www.s.cn/images/mobi/brand_icon/28_103.jpg" name="New Balance" categoryNum="0" brandId="28"   /><brand image="http://www.s.cn/images/mobi/brand_icon/32_103.jpg" name="NINE WEST" categoryNum="0" brandId="32"  type="hot"  /><brand image="http://www.s.cn/images/mobi/brand_icon/38_103.jpg" name="easyspirit" categoryNum="0" brandId="38"   /><brand image="http://www.s.cn/images/mobi/brand_icon/46_103.jpg" name="安踏" categoryNum="0" brandId="46"  type="hot"  /><brand image="http://www.s.cn/images/mobi/brand_icon/47_103.jpg" name="回力" categoryNum="0" brandId="47"   /><brand image="http://www.s.cn/images/mobi/brand_icon/48_103.jpg" name="骆驼" categoryNum="0" brandId="48"   /><brand image="http://www.s.cn/images/mobi/brand_icon/12_103.jpg" name="暇步士" categoryNum="0" brandId="12"   /><brand image="http://www.s.cn/images/mobi/brand_icon/18_103.jpg" name="Clarks" categoryNum="0" brandId="18"   /><brand image="http://www.s.cn/images/mobi/brand_icon/30_103.jpg" name="朗蒂维" categoryNum="0" brandId="30"   /><brand image="http://www.s.cn/images/mobi/brand_icon/51_103.jpg" name="渥弗林" categoryNum="0" brandId="51"   /></tag><tag name="男鞋" id="123"><brand image="http://www.s.cn/images/mobi/brand_icon/12_103.jpg" name="暇步士" categoryNum="0" brandId="12"  /><brand image="http://www.s.cn/images/mobi/brand_icon/18_103.jpg" name="Clarks" categoryNum="0" brandId="18"  /><brand image="http://www.s.cn/images/mobi/brand_icon/19_103.jpg" name="Skomart" categoryNum="0" brandId="19"  /><brand image="http://www.s.cn/images/mobi/brand_icon/30_103.jpg" name="朗蒂维" categoryNum="0" brandId="30"  /><brand image="http://www.s.cn/images/mobi/brand_icon/48_103.jpg" name="骆驼" categoryNum="0" brandId="48"  /><brand image="http://www.s.cn/images/mobi/brand_icon/51_103.jpg" name="渥弗林" categoryNum="0" brandId="51"  /><brand image="http://www.s.cn/images/mobi/brand_icon/54_103.jpg" name="圣大保罗" categoryNum="0" brandId="54"  /></tag><tag name="女鞋" id="126"><brand image="http://www.s.cn/images/mobi/brand_icon/7_103.jpg" name="迈乐" categoryNum="0" brandId="7"   /><brand image="http://www.s.cn/images/mobi/brand_icon/12_103.jpg" name="暇步士" categoryNum="0" brandId="12"   /><brand image="http://www.s.cn/images/mobi/brand_icon/15_103.jpg" name="Aderson" categoryNum="0" brandId="15"   /><brand image="http://www.s.cn/images/mobi/brand_icon/16_103.jpg" name="斯凯奇" categoryNum="0" brandId="16"   /><brand image="http://www.s.cn/images/mobi/brand_icon/17_103.jpg" name="CAT" categoryNum="0" brandId="17"   /><brand image="http://www.s.cn/images/mobi/brand_icon/18_103.jpg" name="Clarks" categoryNum="0" brandId="18"   /><brand image="http://www.s.cn/images/mobi/brand_icon/19_103.jpg" name="Skomart" categoryNum="0" brandId="19"   /><brand image="http://www.s.cn/images/mobi/brand_icon/22_103.jpg" name="Millies" categoryNum="0" brandId="22"   /><brand image="http://www.s.cn/images/mobi/brand_icon/23_103.jpg" name="ELLE" categoryNum="0" brandId="23"   /><brand image="http://www.s.cn/images/mobi/brand_icon/24_103.jpg" name="BCBG" categoryNum="0" brandId="24"   /><brand image="http://www.s.cn/images/mobi/brand_icon/25_103.jpg" name="Scholl" categoryNum="0" brandId="25"   /><brand image="http://www.s.cn/images/mobi/brand_icon/26_103.jpg" name="VAGO" categoryNum="0" brandId="26"   /><brand image="http://www.s.cn/images/mobi/brand_icon/27_103.jpg" name="Nina" categoryNum="0" brandId="27"   /><brand image="http://www.s.cn/images/mobi/brand_icon/29_103.jpg" name="达芙妮" categoryNum="0" brandId="29"  type="hot"  /><brand image="http://www.s.cn/images/mobi/brand_icon/31_103.jpg" name="EQ:IQ" categoryNum="0" brandId="31"   /><brand image="http://www.s.cn/images/mobi/brand_icon/32_103.jpg" name="NINE WEST" categoryNum="0" brandId="32"  type="hot"  /><brand image="http://www.s.cn/images/mobi/brand_icon/33_103.jpg" name="ENZO ANGIOLINI" categoryNum="0" brandId="33"   /><brand image="http://www.s.cn/images/mobi/brand_icon/34_103.jpg" name="BANDOLINO" categoryNum="0" brandId="34"   /><brand image="http://www.s.cn/images/mobi/brand_icon/35_103.jpg" name="AK ANNE KLEIN" categoryNum="0" brandId="35"   /><brand image="http://www.s.cn/images/mobi/brand_icon/37_103.jpg" name="CAROLINNA ESPINOSA" categoryNum="0" brandId="37"   /><brand image="http://www.s.cn/images/mobi/brand_icon/38_103.jpg" name="easyspirit" categoryNum="0" brandId="38"   /><brand image="http://www.s.cn/images/mobi/brand_icon/39_103.jpg" name="STEVE MADDEN" categoryNum="0" brandId="39"   /><brand image="http://www.s.cn/images/mobi/brand_icon/40_103.jpg" name="JOAN DAVID" categoryNum="0" brandId="40"   /><brand image="http://www.s.cn/images/mobi/brand_icon/41_103.jpg" name="ANNE KLEIN NEW YORK" categoryNum="0" brandId="41"   /><brand image="http://www.s.cn/images/mobi/brand_icon/42_103.jpg" name="茵奈儿" categoryNum="0" brandId="42"   /><brand image="http://www.s.cn/images/mobi/brand_icon/43_103.jpg" name="他她" categoryNum="0" brandId="43"   /><brand image="http://www.s.cn/images/mobi/brand_icon/44_103.jpg" name="百丽" categoryNum="0" brandId="44"   /><brand image="http://www.s.cn/images/mobi/brand_icon/45_103.jpg" name="天美意" categoryNum="0" brandId="45"   /><brand image="http://www.s.cn/images/mobi/brand_icon/48_103.jpg" name="骆驼" categoryNum="0" brandId="48"   /><brand image="http://www.s.cn/images/mobi/brand_icon/49_103.jpg" name="星期六" categoryNum="0" brandId="49"  type="hot"  /><brand image="http://www.s.cn/images/mobi/brand_icon/50_103.jpg" name="SAFIYA" categoryNum="0" brandId="50"   /><brand image="http://www.s.cn/images/mobi/brand_icon/52_103.jpg" name="SIXTY NINE" categoryNum="0" brandId="52"   /></tag>			</brandIcons>
+		</data_info>
+	</info>
+</shopex>

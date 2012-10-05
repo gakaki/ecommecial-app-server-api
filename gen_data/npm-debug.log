@@ -1,0 +1,148 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'js2coffee',
+1 verbose cli   'xml2object',
+1 verbose cli   'coffee-script',
+1 verbose cli   'mysql',
+1 verbose cli   '-g' ]
+2 info using npm@1.1.32
+3 info using node@v0.8.0
+4 verbose config file /Users/gakaki/.npmrc
+5 verbose config file /usr/local/etc/npmrc
+6 verbose config file /usr/local/lib/node_modules/npm/npmrc
+7 verbose read json /usr/local/lib/package.json
+8 verbose read json /usr/local/lib/package.json
+9 verbose cache add [ 'js2coffee', null ]
+10 silly cache add name=undefined spec="js2coffee" args=["js2coffee",null]
+11 verbose parsed url { pathname: 'js2coffee', path: 'js2coffee', href: 'js2coffee' }
+12 verbose cache add [ 'xml2object', null ]
+13 silly cache add name=undefined spec="xml2object" args=["xml2object",null]
+14 verbose parsed url { pathname: 'xml2object',
+14 verbose parsed url   path: 'xml2object',
+14 verbose parsed url   href: 'xml2object' }
+15 verbose cache add [ 'coffee-script', null ]
+16 silly cache add name=undefined spec="coffee-script" args=["coffee-script",null]
+17 verbose parsed url { pathname: 'coffee-script',
+17 verbose parsed url   path: 'coffee-script',
+17 verbose parsed url   href: 'coffee-script' }
+18 verbose cache add [ 'mysql', null ]
+19 silly cache add name=undefined spec="mysql" args=["mysql",null]
+20 verbose parsed url { pathname: 'mysql', path: 'mysql', href: 'mysql' }
+21 verbose addNamed [ 'js2coffee', '' ]
+22 verbose addNamed [ null, '' ]
+23 silly addNameRange { name: 'js2coffee', range: '', hasData: false }
+24 verbose addNamed [ 'xml2object', '' ]
+25 verbose addNamed [ null, '' ]
+26 silly addNameRange { name: 'xml2object', range: '', hasData: false }
+27 verbose addNamed [ 'coffee-script', '' ]
+28 verbose addNamed [ null, '' ]
+29 silly addNameRange { name: 'coffee-script', range: '', hasData: false }
+30 verbose addNamed [ 'mysql', '' ]
+31 verbose addNamed [ null, '' ]
+32 silly addNameRange { name: 'mysql', range: '', hasData: false }
+33 verbose url raw xml2object
+34 verbose url resolving [ 'https://registry.npmjs.org/', './xml2object' ]
+35 verbose url resolved https://registry.npmjs.org/xml2object
+36 http GET https://registry.npmjs.org/xml2object
+37 verbose url raw mysql
+38 verbose url resolving [ 'https://registry.npmjs.org/', './mysql' ]
+39 verbose url resolved https://registry.npmjs.org/mysql
+40 http GET https://registry.npmjs.org/mysql
+41 verbose url raw js2coffee
+42 verbose url resolving [ 'https://registry.npmjs.org/', './js2coffee' ]
+43 verbose url resolved https://registry.npmjs.org/js2coffee
+44 verbose etag "DJ9ETHMJ5YQVSR2VBF78GXPPK"
+45 http GET https://registry.npmjs.org/js2coffee
+46 verbose url raw coffee-script
+47 verbose url resolving [ 'https://registry.npmjs.org/', './coffee-script' ]
+48 verbose url resolved https://registry.npmjs.org/coffee-script
+49 verbose etag "99UJ9NSZHU7W98C4J51K3D3AI"
+50 http GET https://registry.npmjs.org/coffee-script
+51 http 304 https://registry.npmjs.org/js2coffee
+52 silly registry.get cb [ 304,
+52 silly registry.get   { server: 'CouchDB/1.2.0 (Erlang OTP/R15B)',
+52 silly registry.get     etag: '"DJ9ETHMJ5YQVSR2VBF78GXPPK"',
+52 silly registry.get     date: 'Tue, 26 Jun 2012 09:17:09 GMT',
+52 silly registry.get     'content-length': '0' } ]
+53 verbose etag js2coffee from cache
+54 silly addNameRange number 2 { name: 'js2coffee', range: '', hasData: true }
+55 silly addNameRange versions [ 'js2coffee',
+55 silly addNameRange   [ '0.0.1',
+55 silly addNameRange     '0.0.2',
+55 silly addNameRange     '0.0.3',
+55 silly addNameRange     '0.0.4',
+55 silly addNameRange     '0.0.5',
+55 silly addNameRange     '0.1.0',
+55 silly addNameRange     '0.1.1',
+55 silly addNameRange     '0.1.2',
+55 silly addNameRange     '0.1.3' ] ]
+56 verbose read json /Users/gakaki/.npm/js2coffee/0.1.3/package/package.json
+57 http 304 https://registry.npmjs.org/coffee-script
+58 silly registry.get cb [ 304,
+58 silly registry.get   { server: 'CouchDB/1.2.0 (Erlang OTP/R15B)',
+58 silly registry.get     etag: '"99UJ9NSZHU7W98C4J51K3D3AI"',
+58 silly registry.get     date: 'Tue, 26 Jun 2012 09:17:12 GMT',
+58 silly registry.get     'content-length': '0' } ]
+59 verbose etag coffee-script from cache
+60 silly addNameRange number 2 { name: 'coffee-script', range: '', hasData: true }
+61 silly addNameRange versions [ 'coffee-script',
+61 silly addNameRange   [ '0.7.0',
+61 silly addNameRange     '0.7.1',
+61 silly addNameRange     '0.7.2',
+61 silly addNameRange     '0.9.0',
+61 silly addNameRange     '0.9.1',
+61 silly addNameRange     '0.9.2',
+61 silly addNameRange     '0.9.3',
+61 silly addNameRange     '0.9.4',
+61 silly addNameRange     '0.9.5',
+61 silly addNameRange     '0.9.6',
+61 silly addNameRange     '1.0.0',
+61 silly addNameRange     '1.0.1',
+61 silly addNameRange     '1.1.0',
+61 silly addNameRange     '1.1.1',
+61 silly addNameRange     '1.1.2',
+61 silly addNameRange     '1.1.3',
+61 silly addNameRange     '1.2.0',
+61 silly addNameRange     '1.3.0',
+61 silly addNameRange     '1.3.1',
+61 silly addNameRange     '1.3.2',
+61 silly addNameRange     '1.3.3' ] ]
+62 verbose read json /Users/gakaki/.npm/coffee-script/1.3.3/package/package.json
+63 http 200 https://registry.npmjs.org/xml2object
+64 silly registry.get cb [ 200,
+64 silly registry.get   { vary: 'Accept',
+64 silly registry.get     server: 'CouchDB/1.2.0 (Erlang OTP/R15B)',
+64 silly registry.get     etag: '"29CYKMH0YT1NQYPFZG45ZE6FN"',
+64 silly registry.get     date: 'Tue, 26 Jun 2012 09:17:18 GMT',
+64 silly registry.get     'content-type': 'application/json',
+64 silly registry.get     'content-length': '3354' } ]
+65 silly addNameRange number 2 { name: 'xml2object', range: '', hasData: true }
+66 silly addNameRange versions [ 'xml2object', [] ]
+67 error Error: No compatible version found: xml2object
+67 error No valid targets found.
+67 error Perhaps not compatible with your version of node?
+67 error     at installTargetsError (/usr/local/lib/node_modules/npm/lib/cache.js:506:10)
+67 error     at next_ (/usr/local/lib/node_modules/npm/lib/cache.js:452:17)
+67 error     at next (/usr/local/lib/node_modules/npm/lib/cache.js:427:44)
+67 error     at /usr/local/lib/node_modules/npm/lib/cache.js:419:5
+67 error     at saved (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/get.js:136:7)
+67 error     at /usr/local/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:230:7
+67 error     at Object.oncomplete (fs.js:297:15)
+67 error  [Error: No compatible version found: xml2object
+67 error No valid targets found.
+67 error Perhaps not compatible with your version of node?]
+68 error You may report this log at:
+68 error     <http://github.com/isaacs/npm/issues>
+68 error or email it to:
+68 error     <npm-@googlegroups.com>
+69 error System Darwin 12.0.0
+70 error command "node" "/usr/local/bin/npm" "install" "js2coffee" "xml2object" "coffee-script" "mysql" "-g"
+71 error cwd /Volumes/work/workspace/studio/appapi.loc/gen_data
+72 error node -v v0.8.0
+73 error npm -v 1.1.32
+74 error message No compatible version found: xml2object
+74 error message No valid targets found.
+74 error message Perhaps not compatible with your version of node?
+75 verbose exit [ 1, true ]

@@ -1,0 +1,7 @@
+
+//注意windiws下要用administrator 管理员运行 windows administrat cmd.exe
+	
+
+cd /d z:\coreamp\python\service.guanyisoft.com\misc\api_test\item\
+d:\php5310_b2b\php.exe add.php
+

@@ -1,0 +1,12 @@
+<shopex>
+    <result>success</result>
+    <msg />
+    <info>
+        <weblogid><![CDATA[cd59b7024baef874592d22cc4fa01e48]]></weblogid><stime>1343274371</stime><error_code></error_code><error_info></error_info>        <data_info>
+			<pageinfo page="1" pageSize="10" totalPage="1" number="1" />			<productList >
+			<item bn="SSA2SC3D0223" totalSells="3" pstatus="0" 
+    			   image="http://images.s.cn/images/goods/20120510/2ca566213b3e888e_100.jpg" name="星期六 松紧带中跟罗马式坡跟女凉鞋  SSA2SC3D0223" marketPrice="479" 
+    			   sellPrice="199" productCode="23863" />			</productList>
+		</data_info>
+	</info>
+</shopex>

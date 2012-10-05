@@ -1,0 +1,174 @@
+http://appapi.loc/api.php?method=home.view.index
+
+
+ /Volumes/work/workspace/dz.loc
+
+pacman -Sy libxslt libxml2
+
+
+
+git clone git://github.com/nicolasff/phpredis.git
+cd phpredis
+phpize && ./configure && make && make install
+git clone git://github.com/mongodb/mongo-php-driver.git
+cd mongo-php-driver
+phpize && ./configure && make && make install
+
+
+wget http://xdebug.org/files/xdebug-2.2.0.tgz
+tar zxvf xdebug-2.2.0.tgz
+cd xdebug-2.2.0
+phpize && ./configure && make && make install
+
+cd /usr/local/php/lib/php/extensions/no-debug-non-zts-20100525
+mate /usr/local/php/etc/php.ini
+
+kill $(pgrep irssi)
+
+killall -v irssi
+
+pkill irssi
+
+kill `ps -ef | grep irssi | grep -v grep | awk ‘{print $2}’`
+
+
+
+ps -A | grep firefox | kill $1
+
+
+
+http://www.cnblogs.com/aimeng/archive/2012/05/22/2512826.html
+cnbeta.com windows8
+
+http://www.if-not-true-then-false.com/2011/nginx-and-php-fpm-configuration-and-optimizing-tips-and-tricks/
+php fpm
+https://github.com/samsoffes/sstoolkit
+http://www.google.com/search?q=iphone++滚动文字条&hl=zh-CN&newwindow=1&client=safari&rls=en&prmd=imvns&ei=ffS6T9LmEc2eiAeyn93eCA&start=10&sa=N&biw=1215&bih=743
+http://www.command-tab.com/2011/06/20/true-php-debugging-with-nginx-and-php-fpm/
+http://www.ioslib.com/library/utilities/audiostreamer/
+https://github.com/search?q=Marquee&repo=&langOverride=&start_value=1&type=Repositories&language=Java
+https://github.com/cbpowell/MarqueeLabel
+http://www.google.com/search?client=safari&rls=en&q=android+跑马灯&ie=UTF-8&oe=UTF-8
+toggle
+stackoveflow uitablei expand
+https://github.com/search?q=toggle&repo=&langOverride=&start_value=1&type=Repositories&language=Objective-C
+expand
+https://github.com/search?langOverride=&language=Objective-C&q=expand&repo=&start_value=1&type=Repositories
+http://basekit-framework.org/
+https://github.com/marvelph/CocoaSQLMapper
+CalendarView	heavensword	 22 May 00:59	 
+iOS calendar view
+sspulltorefresh
+	LIExposeController	udi	 22 May 00:56	 
+Expose style navigation for iOS apps
+ 	 redis-faina	
+ 	cocoacontrols
+	ShareKit	nsemchenkov	 22 May 00:56	 
+Drop in sharing features for all iPhone and iPad apps
+ 	 http://www.google.com/search?client=safari&rls=en&q=九宫格+ios&ie=UTF-8&oe=UTF-8	
+ 	https://github.com/fieldforceapp/openspringboard
+	xmlrpc
+	fmdb
+	WaterFlow
+jm when tapped
+	WaterflowView
+https://github.com/Aldridge1/JMWhenTapped
+
+
+
+
+
+
+cd /etc/rc.d
+ls -la
+--with-png-dir=/usr/local/Cellar/libpng12/1.2.49/include \
+=/usr/X11/include
+/usr/X11/include/freetype2/freetype
+这种情况下是否支持gd的png和jpg呢
+
+
+./configure --prefix=/usr/local/php \
+--enable-fpm \
+--with-gd \
+--with-freetype-dir \
+--with-jpeg-dir \
+--with-png-dir=/usr \
+--enable-cli \
+--with-config-file-path=/usr/local/php/etc \
+--with-libxml-dir \
+--with-zlib=/usr \
+--enable-bcmath \
+--with-bz2 \
+--enable-calendar \
+--with-curl \
+--enable-dba \
+--enable-exif \
+--enable-ftp \
+--enable-gd-native-ttf \
+--with-libedit \
+--enable-mbstring \
+--enable-mbregex \
+--with-mysql=mysqlnd \
+--with-mysqli=mysqlnd \
+--with-pdo-mysql=mysqlnd \
+--with-mysql-sock=/tmp/mysql.sock  \
+--with-readline \
+--enable-sockets  \
+--with-tidy \
+--with-xmlrpc \
+--with-iconv-dir \
+--with-xsl \
+--enable-zip \
+--with-pcre-regex
+
+
+sudo make && sudo make install
+
+
+
+
+
+./configure --prefix=/usr/local/php \
+--enable-fpm \
+--with-gd \
+--with-freetype-dir \
+--with-jpeg-dir \
+--with-png-dir \
+--enable-cli \
+--with-config-file-path=/usr/local/php/etc \
+--with-libxml-dir \
+--with-zlib=/usr \
+--enable-bcmath \
+--with-bz2 \
+--enable-calendar \
+--with-curl \
+--enable-dba \
+--enable-exif \
+--enable-ftp \
+--enable-gd-native-ttf \
+--with-libedit \
+--enable-mbstring \
+--enable-mbregex \
+--with-mysql \
+--with-mysqli \
+--with-pdo-mysql \
+--with-mysql-sock=/tmp/mysql.sock  \
+--with-readline \
+--enable-sockets  \
+--with-xmlrpc \
+--with-iconv-dir \
+--with-xsl \
+--enable-zip \
+--with-pcre-regex
+
+
+--with-tidy \
+
+
+
+
+
+
+
+
+--with-mysql --with-mysqli --with-pdo-mysql --enable-socket

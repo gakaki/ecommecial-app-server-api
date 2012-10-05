@@ -1,0 +1,32 @@
+<shopex>
+	<result>
+		success
+	</result>
+	<msg />
+	<info>
+		<weblogid>
+			f88866825bcd4dcfb5f708e82b8dac8a
+		</weblogid>
+		<stime>
+			1342763816
+		</stime>
+		<error_code />
+		<error_info />
+		<data_info>
+			<helpList>
+				<help helpId="2" name="名鞋库如何确保正品鞋？">
+					1.完善的供应链&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<br/>2.正规的采购渠道&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<br/>3.入仓全检正品保障&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+				</help>
+				<help helpId="3" name="收到货后不满意怎么办？">
+					<strong style=""><span style="font-weight: normal;"><strong>&#xb7;免费拒收&nbsp;&nbsp;&nbsp; <br/>&#xb7;自由退换货<br/></strong></span></strong>
+				</help>
+				<help helpId="4" name="对商品有疑惑，如何联系售后客服？">
+					拨打名鞋库全国客服热线400-800-2222转2进行联系。
+				</help>
+				<help helpId="5" name="什么是“假一赔十”服务承诺？">
+					基于当前中国知识产权现状，顾客朋友对网上销售商品存在的种种疑虑，我们深表理解，为此，名鞋库自信承诺：确保正品，假一赔十（赔付金额=商品销售金额的十倍）！
+				</help>
+			</helpList>
+		</data_info>
+	</info>
+</shopex>

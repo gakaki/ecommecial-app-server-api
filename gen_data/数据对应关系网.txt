@@ -1,0 +1,9 @@
+数据对应关系网
+
+
+#homepage
+
+m_SCNHomeDatas.m_activityDatasArr  		activity/item 			activityHomeData
+m_SCNHomeDatas.m_productlistDatasArr	productlist/item		productlistHomeData
+m_SCNHomeDatas.m_topicDatasArr			topics/topic            topicHomeData
+m_SCNHomeDatas.m_topic_itemDatasArr		topicHomeData

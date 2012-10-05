@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bunplus>
+	<patterns>
+		<pattern>
+			<rule>/api.php</rule>
+			<type>static</type>
+			<action>api.api.subcontroler</action>
+		</pattern>
+		<pattern>
+			<rule>/oauth.php</rule>
+			<type>static</type>
+			<action>oauth2.taobao.subcontroler</action>
+		</pattern>
+		<!-- 
+		<pattern>
+			<rule>/admin/users/</rule>
+			<type>static</type>
+			<action>location(/admin/user/detail/)</action>
+		</pattern>
+		<pattern>
+			<rule>/admin/menus/</rule>
+			<type>static</type>
+			<action>com.guanyisoft.admin.menu.get</action>
+		</pattern>
+		-->
+	</patterns>
+</bunplus>

@@ -1,0 +1,17 @@
+<shopex>
+    <result>success</result>
+    <msg />
+    <info>
+        <weblogid><![CDATA[d2ad1ff1e33ff2977291926b59493eed]]></weblogid><stime>1339143985</stime><error_code></error_code><error_info></error_info>        <data_info>
+			<categorys>
+							<category image="http://www.s.cn/images/mobi/cat_icon/17_40.png" name="男鞋" fatherId="0" categoryId="17" childNum="6" brandId=""/>
+							<category image="http://www.s.cn/images/mobi/cat_icon/26_40.png" name="女鞋" fatherId="0" categoryId="26" childNum="7" brandId=""/>
+							<category image="http://www.s.cn/images/mobi/cat_icon/60_40.png" name="童鞋" fatherId="0" categoryId="60" childNum="7" brandId=""/>
+							<category image="http://www.s.cn/images/mobi/cat_icon/62_40.png" name="服装" fatherId="0" categoryId="62" childNum="11" brandId=""/>
+							<category image="http://www.s.cn/images/mobi/cat_icon/66_40.png" name="包包" fatherId="0" categoryId="66" childNum="6" brandId=""/>
+							<category image="http://www.s.cn/images/mobi/cat_icon/102_40.png" name="运动户外男鞋" fatherId="0" categoryId="102" childNum="14" brandId=""/>
+							<category image="http://www.s.cn/images/mobi/cat_icon/103_40.png" name="运动户外女鞋" fatherId="0" categoryId="103" childNum="11" brandId=""/>
+						</categorys>
+		</data_info>
+	</info>
+</shopex>

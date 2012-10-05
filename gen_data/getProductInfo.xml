@@ -1,0 +1,21 @@
+<shopex>
+    <result>success</result>
+    <msg />
+    <info>
+        <weblogid><![CDATA[cd59b7024baef874592d22cc4fa01e48]]></weblogid><stime>1346061420</stime><error_code></error_code><error_info></error_info>        <data_info>
+          <product categoryid="19" pstatus="0" marketPrice="559" sellPrice="399" bn="ML330GS-2E" name="New Balance 新百伦 跑步鞋 男鞋" sex="男鞋" brand="New Balance" />        <desc>详细描述</desc>
+          <tags>
+            <tag>新品</tag>         </tags>
+                <images>
+                <image bigImage="http://images.s.cn/images/goods/20120106/f73935a3cd346a51_640.jpg" smallImage="http://images.s.cn/images/goods/20120106/f73935a3cd346a51_290.jpg">http://images.s.cn/images/goods/20120106/b636a9cf16df3fee.jpg</image><image bigImage="http://images.s.cn/images/goods/20120106/91494f63ebd875e7_640.jpg" smallImage="http://images.s.cn/images/goods/20120106/91494f63ebd875e7_290.jpg">http://images.s.cn/images/goods/20120106/ca5b6e3ebad73580.jpg</image><image bigImage="http://images.s.cn/images/goods/20120106/450a711bfc0de68d_640.jpg" smallImage="http://images.s.cn/images/goods/20120106/450a711bfc0de68d_290.jpg">http://images.s.cn/images/goods/20120106/8b0a3f4582cb92c6.jpg</image><image bigImage="http://images.s.cn/images/goods/20120106/d646d0f6eecaa4f2_640.jpg" smallImage="http://images.s.cn/images/goods/20120106/d646d0f6eecaa4f2_290.jpg">http://images.s.cn/images/goods/20120106/a8d2ff013db458f6.jpg</image><image bigImage="http://images.s.cn/images/goods/20120106/ae0d06f100437be2_640.jpg" smallImage="http://images.s.cn/images/goods/20120106/ae0d06f100437be2_290.jpg">http://images.s.cn/images/goods/20120106/2907f4438b17d11a.jpg</image><image bigImage="http://images.s.cn/images/goods/20120106/06a4bae5158881a3_640.jpg" smallImage="http://images.s.cn/images/goods/20120106/06a4bae5158881a3_290.jpg">http://images.s.cn/images/goods/20120106/66b5d7b66c85b886.jpg</image>                </images>
+                <colors>
+                <color pstatus="0" rgb="" image="http://images.s.cn/images//20111212/7776be36a27b7cb0.jpg" productCode="19201" name="石灰银+矿土灰"  check="1"></color><color pstatus="0" rgb="" image="http://images.s.cn/images//20111212/9fb4b40b022542c9.jpg" productCode="19219" name="黑夜蓝+矿石灰"  check="0"></color>                </colors>
+                <sizes>
+                <size sku="100324" stock="9">40</size><size sku="100325" stock="15">40.5</size><size sku="100326" stock="7">41.5</size><size sku="100327" stock="21">42</size><size sku="100328" stock="16">42.5</size><size sku="100329" stock="9">43</size><size sku="100330" stock="16">44</size><size sku="144187" stock="5">44.5</size>                </sizes>                
+                <shares>
+                  <share url="http://v.t.sina.com.cn/share/share.php" image="">新浪</share>
+                  <share url="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey" image="">QQ空间</share>
+                </shares>
+        </data_info>
+    </info>
+</shopex>

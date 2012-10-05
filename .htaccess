@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # 如果文件或目录存在则不使用重写
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -l [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule . - [NC,L]
+  RewriteRule . index.php [NC,L]
+</IfModule>
